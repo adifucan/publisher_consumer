@@ -1,0 +1,1 @@
+# Custom Magento module with its own publisher and consumer. Publisher is triggered once product is deleted.
